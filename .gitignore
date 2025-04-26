@@ -1,0 +1,7 @@
+# Ignorar entorno virtual, configuraciones de editor y archivos sensibles
+.env
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.dungeons.json
